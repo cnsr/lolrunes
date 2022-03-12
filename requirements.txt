@@ -7,7 +7,7 @@ cryptography==2.8
 future==0.18.2
 idna==2.8
 lxml==4.4.2
-Pillow==6.2.1
+Pillow==9.0.1
 pycparser==2.19
 python-dotenv==0.10.3
 python-telegram-bot==12.2.0
